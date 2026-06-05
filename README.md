@@ -10,6 +10,7 @@ Progresívna webová aplikácia (PWA) na správu bezpečnosti a ochrany zdravia 
 bozp-app/
 ├── frontend/   # Vue 3 SPA/PWA
 └── backend/    # Node.js REST API
+└── database/    # SQL script
 ```
 
 ---
