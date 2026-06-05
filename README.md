@@ -7,9 +7,10 @@ Progresívna webová aplikácia (PWA) na správu bezpečnosti a ochrany zdravia 
 ## Štruktúra projektu
 
 ```
-pwa-bozp/
+ag630zt/
 ├── frontend/   # Vue 3 SPA/PWA
-└── backend/    # Node.js REST API
+├── backend/    # Node.js REST API
+└── database/   # SQL script
 ```
 
 ---
@@ -33,8 +34,8 @@ pwa-bozp/
 ### 1. Klonovanie repozitára
 
 ```bash
-git clone <url-repozitara>
-cd pwa-bozp
+git clone https://github.com/kkuichi/ag630zt.git
+cd ag630zt
 ```
 
 ### 2. Nastavenie backendu
